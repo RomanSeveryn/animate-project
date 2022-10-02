@@ -1,5 +1,5 @@
-import { BaseExampleMoti } from "./components/baseExampleMoti";
+import { RingingWave } from "./components/ringingWave";
 
 export default function App() {
-  return <BaseExampleMoti />;
+  return <RingingWave />;
 }
