@@ -1,5 +1,5 @@
-import { RingingWave } from "./components/ringingWave";
+import { FlatlistParallax } from "./components/flatlistParallax";
 
 export default function App() {
-  return <RingingWave />;
+  return <FlatlistParallax />;
 }
