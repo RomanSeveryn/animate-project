@@ -1,5 +1,5 @@
-import { FlatlistParallax } from "./components/flatlistParallax";
+import { FlatListThird } from './components/flatlistThird';
 
 export default function App() {
-  return <FlatlistParallax />;
+  return <FlatListThird />;
 }
