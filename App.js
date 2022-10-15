@@ -1,5 +1,5 @@
-import { FlatListThird } from './components/flatlistThird';
+import { MindBlowingAnimation } from './components/mindBlowingAnimation';
 
 export default function App() {
-  return <FlatListThird />;
+  return <MindBlowingAnimation />;
 }
