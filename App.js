@@ -1,5 +1,5 @@
-import { MindBlowingAnimation } from './components/mindBlowingAnimation';
+import { StickyFooter } from './components/stickyFooter';
 
 export default function App() {
-  return <MindBlowingAnimation />;
+  return <StickyFooter />;
 }
