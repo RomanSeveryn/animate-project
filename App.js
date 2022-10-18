@@ -1,5 +1,5 @@
-import { StickyFooter } from './components/stickyFooter';
+import { FlatListHorizontalAndBottomSheet } from './components/flatListHorizontalAndBottomSheet';
 
 export default function App() {
-  return <StickyFooter />;
+  return <FlatListHorizontalAndBottomSheet />;
 }
