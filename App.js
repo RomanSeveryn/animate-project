@@ -1,5 +1,5 @@
-import { FlatListHorizontalAndBottomSheet } from './components/flatListHorizontalAndBottomSheet';
+import { Timer } from './components/timer';
 
 export default function App() {
-  return <FlatListHorizontalAndBottomSheet />;
+  return <Timer />;
 }
