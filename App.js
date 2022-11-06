@@ -1,5 +1,5 @@
-import { Timer } from './components/timer';
+import { ProgressBarIndicator } from './components/progressBarIndicator';
 
 export default function App() {
-  return <Timer />;
+  return <ProgressBarIndicator />;
 }
