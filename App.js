@@ -1,5 +1,5 @@
-import { ProgressBarIndicator } from './components/progressBarIndicator';
+import { Chart } from './components/donutChartComponent/chart';
 
 export default function App() {
-  return <ProgressBarIndicator />;
+  return <Chart />;
 }
