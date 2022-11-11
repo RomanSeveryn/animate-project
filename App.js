@@ -1,5 +1,5 @@
-import { Chart } from './components/donutChartComponent/chart';
+import { UnderlineTabs } from './components/underlineTabs';
 
 export default function App() {
-  return <Chart />;
+  return <UnderlineTabs />;
 }
