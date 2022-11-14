@@ -1,5 +1,5 @@
-import { UnderlineTabs } from './components/underlineTabs';
+import { AnimatedList } from './components/animatedList/animatedList';
 
 export default function App() {
-  return <UnderlineTabs />;
+  return <AnimatedList />;
 }
