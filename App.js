@@ -1,5 +1,5 @@
-import { AnimatedList } from './src/components/animatedList/animatedList';
+import { LottieAnimation } from './src/components/lottieAnimation';
 
 export default function App() {
-  return <AnimatedList />;
+  return <LottieAnimation />;
 }
